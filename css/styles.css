@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  font-align: center;
+}
+
+p {
+  color: purple;
+  font-size: 10px;
+  font-family: fantasy;
+}
+
+li {
+
+  font-weight: bold;
+  font-style: italic;
+  line-height: normal;
+}
